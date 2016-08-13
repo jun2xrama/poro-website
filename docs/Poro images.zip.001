@@ -1,0 +1,8 @@
+<html><title>Content Blocked Notice</title>The content you just requested contains  a violation  and was blocked by the Symantec Protection Engine based on local administrator settings.  Contact your local administrator for further information.</html>
+
+<!-- This html page could possibly have been too short for some browsers, like Internet
+     Explorer, to display. For Internet Explorer this is controlled by the registry
+     key at HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\ErrorThresholds
+     For more information about the reason for this comment see the article
+     at http://support.microsoft.com/kb/218155
+-->
